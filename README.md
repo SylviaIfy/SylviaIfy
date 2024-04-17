@@ -3,6 +3,16 @@
 <!--
 **SylviaIfy/SylviaIfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm Sylvia Ofiani.
+
+I'm an excellent Quality Assurance Engineer.
+
+I love learning new and trying things, this year I'm letting the learning bug have a field's day with me and I'm learning alot about software development and test automation: Java, HTML, CSS, JavaScript, Selenium, ....
+
+I'll be back to update this with details of my journey with the learning bug.
+
+Cheers.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
